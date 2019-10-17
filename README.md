@@ -1,5 +1,31 @@
 # FlycoTabLayout
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FlycoTabLayout-green.svg?style=true)](https://android-arsenal.com/details/1/2756)
+
+## 说明
+```
+原作者3年没更新了，做了些修改
+
+2019年10月17日16:25:53
+1.gradle升级
+2.androidx
+3.支持网络获取icon
+```
+
+## 使用  
+[![](https://www.jitpack.io/v/yuanzaiyuanfang/FlycoTabLayout.svg)](https://www.jitpack.io/#yuanzaiyuanfang/FlycoTabLayout)
+```
+   allprojects {
+		repositories {
+			...
+			maven { url 'https://www.jitpack.io' }
+		}
+	}
+
+   dependencies {
+	        implementation 'com.github.yuanzaiyuanfang:FlycoTabLayout:3.0.0'
+	}
+```
+
 #### [中文版](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
 An Android TabLayout Lib has 3 kinds of TabLayout at present.
 
