@@ -5,6 +5,9 @@
 ```
 原作者3年没更新了，做了些修改
 
+2020年4月15日11:28:10
+支持选中字体大小和未选中不同，tl_textsize改为tl_textUnselectSize，增加tl_textSelectSize
+
 2019年10月17日16:25:53
 1.gradle升级
 2.androidx
@@ -15,16 +18,16 @@
 ## 使用  
 [![](https://www.jitpack.io/v/yuanzaiyuanfang/FlycoTabLayout.svg)](https://www.jitpack.io/#yuanzaiyuanfang/FlycoTabLayout)
 ```
-   allprojects {
-		repositories {
-			...
-			maven { url 'https://www.jitpack.io' }
-		}
-	}
+    allprojects {
+        repositories {
+            ...
+            maven { url 'https://www.jitpack.io' }
+        }
+    }
 
-   dependencies {
-	        implementation 'com.github.yuanzaiyuanfang:FlycoTabLayout:3.0.0'
-	}
+    dependencies {
+        implementation 'com.github.yuanzaiyuanfang:FlycoTabLayout:3.0.2'
+    }
 ```
 
 #### [中文版](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
