@@ -5,6 +5,9 @@
 ```
 原作者3年没更新了，做了些修改
 
+2020年5月25日15:55:03
+支持viewpager2
+
 2020年4月15日11:28:10
 支持选中字体大小和未选中不同，tl_textsize改为tl_textUnselectSize，增加tl_textSelectSize
 
